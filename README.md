@@ -1,5 +1,5 @@
 ### Hi there 👋
-![refrain1](https://metrics.lecoq.io/refrain1?template=classic&config.timezone=Asia%2FShanghai)
+![Metrics](https://metrics.lecoq.io/refrain1?template=classic&config.timezone=Asia%2FShanghai)
 ![refrain1's github stats](https://github-readme-stats.vercel.app/api?username=refrain1&show_icons=true&theme=radical) 
 ![refrain1's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=refrain1&layout=compact&hide_border=true&langs_count=10)
 
